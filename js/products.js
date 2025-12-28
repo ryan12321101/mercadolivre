@@ -4,15 +4,15 @@ const products = [
     // ELETRÔNICOS
     {
         id: 1,
-        name: "Fone de Ouvido Bluetooth JBL Tune 510BT",
-        price: 149.90,
-        oldPrice: 299.90,
-        image: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=400&fit=crop",
+        name: "Kit Jogo De Chave Catraca Soquete 46 Peças Combo Jogo Ferramentas Profissional Chave Fenda Philips Soquete 1/4 Em Aço CRV",
+        price: 29.99,
+        oldPrice: 49.99,
+        image: "https://regular-red-97hmdnfj2b-rjei2x0j89.edgeone.app/1-6c161791.png",
         rating: 4.5,
         reviews: 1250,
         shipping: "Frete grátis",
         category: "eletronicos",
-        affiliateLink: "https://mercadolivre.com.br/produto-exemplo-1"
+        affiliateLink: "https://mercadolivre.com/sec/1Getrh9"
     },
     {
         id: 2,
