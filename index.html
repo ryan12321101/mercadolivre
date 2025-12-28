@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Vitrine de produtos com as melhores ofertas. Site afiliado com produtos selecionados.">
+    <title>Ofertas Imperdíveis - Vitrine de Produtos</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="header-top">
+            <div class="container">
+                <div class="logo">
+                    <i class="fas fa-shopping-bag"></i>
+                    <span>Ofertas</span>
+                </div>
+                <div class="header-icons">
+                    <i class="fas fa-bell"></i>
+                    <i class="fas fa-shopping-cart"></i>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Search Bar -->
+        <div class="search-container">
+            <div class="container">
+                <div class="search-bar">
+                    <i class="fas fa-search"></i>
+                    <input type="text" placeholder="Buscar produtos, marcas e muito mais..." id="searchInput">
+                </div>
+            </div>
+        </div>
+
+        <!-- Banner Promocional -->
+        <div class="promo-banner">
+            <div class="container">
+                <div class="banner-content">
+                    <i class="fas fa-bolt"></i>
+                    <span>Ofertas Relâmpago! Descontos de até 70%</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Categories -->
+        <div class="categories-container">
+            <div class="container">
+                <div class="categories" id="categories">
+                    <button class="category-btn active" data-category="todos">
+                        <i class="fas fa-th"></i>
+                        <span>Todos</span>
+                    </button>
+                    <button class="category-btn" data-category="eletronicos">
+                        <i class="fas fa-laptop"></i>
+                        <span>Eletrônicos</span>
+                    </button>
+                    <button class="category-btn" data-category="casa">
+                        <i class="fas fa-home"></i>
+                        <span>Casa</span>
+                    </button>
+                    <button class="category-btn" data-category="moda">
+                        <i class="fas fa-tshirt"></i>
+                        <span>Moda</span>
+                    </button>
+                    <button class="category-btn" data-category="esportes">
+                        <i class="fas fa-football-ball"></i>
+                        <span>Esportes</span>
+                    </button>
+                    <button class="category-btn" data-category="beleza">
+                        <i class="fas fa-spa"></i>
+                        <span>Beleza</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <div class="container">
+            <!-- Products Grid -->
+            <div class="products-grid" id="productsGrid">
+                <!-- Products will be loaded here by JavaScript -->
+            </div>
+
+            <!-- Loading Indicator -->
+            <div class="loading" id="loading">
+                <i class="fas fa-spinner fa-spin"></i>
+                <p>Carregando produtos...</p>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-info">
+                    <h3>Sobre o Site</h3>
+                    <p>Vitrine de produtos selecionados com as melhores ofertas da internet.</p>
+                </div>
+                
+                <div class="footer-links">
+                    <h4>Links Úteis</h4>
+                    <ul>
+                        <li><a href="#sobre">Sobre Nós</a></li>
+                        <li><a href="#contato">Contato</a></li>
+                        <li><a href="#termos">Termos de Uso</a></li>
+                    </ul>
+                </div>
+
+                <div class="affiliate-notice">
+                    <i class="fas fa-info-circle"></i>
+                    <p>Este site participa de programas de afiliados. Podemos receber comissões por compras realizadas através dos links presentes neste site.</p>
+                </div>
+            </div>
+
+            <div class="footer-bottom">
+                <p>&copy; 2024 Ofertas Imperdíveis. Todos os direitos reservados.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/products.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
