@@ -7,7 +7,7 @@ const products = [
         name: "Kit Jogo De Chave Catraca Soquete 46 Peças Combo Jogo Ferramentas Profissional Chave Fenda Philips Soquete 1/4 Em Aço CRV",
         price: 29.99,
         oldPrice: 49.99,
-        image: "https://regular-red-97hmdnfj2b-rjei2x0j89.edgeone.app/1-6c161791.png",
+        image: "https://http2.mlstatic.com/D_NQ_NP_2X_796287-MLA100688695686_122025-F.webp",
         rating: 4.5,
         reviews: 1250,
         shipping: "Frete grátis",
@@ -16,189 +16,189 @@ const products = [
     },
     {
         id: 2,
-        name: "Smart TV LED 50\" 4K UHD Samsung Crystal",
-        price: 1899.00,
-        oldPrice: 2999.00,
-        image: "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=400&h=400&fit=crop",
+        name: "Headset Qcy H3 Anc Adaptativo Bluetooth 5.3 Multiponto 60h Cor Preto",
+        price: 294.00,
+        oldPrice: 360.00,
+        image: "https://http2.mlstatic.com/D_NQ_NP_2X_987051-MLA88535124534_072025-F.webp",
         rating: 4.8,
         reviews: 890,
         shipping: "Frete grátis",
         category: "eletronicos",
-        affiliateLink: "https://mercadolivre.com.br/produto-exemplo-2"
+        affiliateLink: "https://mercadolivre.com/sec/1pF8PkJ"
     },
     {
         id: 3,
-        name: "Notebook Lenovo IdeaPad 3i 15.6\" Core i5 8GB 256GB SSD",
-        price: 2599.00,
-        oldPrice: 3499.00,
-        image: "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400&h=400&fit=crop",
+        name: "Amazon Echo Pop Com Wi-fi E Bluetooth - Cor Preto",
+        price: 329.00,
+        oldPrice: 450.00,
+        image: "https://http2.mlstatic.com/D_Q_NP_709709-MLA98775031281_112025-F.webp",
         rating: 4.6,
         reviews: 567,
         shipping: "Frete grátis",
         category: "eletronicos",
-        affiliateLink: "https://mercadolivre.com.br/produto-exemplo-3"
+        affiliateLink: "https://mercadolivre.com/sec/2APDMac"
     },
     {
         id: 4,
-        name: "Mouse Gamer Logitech G403 Hero RGB 16.000 DPI",
-        price: 189.90,
-        oldPrice: 349.90,
-        image: "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=400&h=400&fit=crop",
+        name: "Relógio Inteligente Military Rock C20 2023",
+        price: 129.90,
+        oldPrice: 162.49,
+        image: "https://http2.mlstatic.com/D_Q_NP_980099-CBT91520574429_092025-F-relogio-inteligente-military-rock-c20-2023.webp",
         rating: 4.9,
         reviews: 2340,
         shipping: "Frete grátis",
         category: "eletronicos",
-        affiliateLink: "https://mercadolivre.com.br/produto-exemplo-4"
+        affiliateLink: "https://mercadolivre.com/sec/1So9um3"
     },
     {
         id: 5,
-        name: "Smartwatch Xiaomi Mi Band 7 Tela AMOLED",
-        price: 199.00,
-        oldPrice: 399.00,
-        image: "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=400&h=400&fit=crop",
+        name: "Creatina Monohidratada 600g Soldiers Nutrition 100% Pura Importada Performance Músculo Treino",
+        price: 44.90,
+        oldPrice: 154.00,
+        image: "https://http2.mlstatic.com/D_Q_NP_756773-MLA99586857204_122025-F.webp",
         rating: 4.7,
         reviews: 1678,
         shipping: "Frete grátis",
         category: "eletronicos",
-        affiliateLink: "https://mercadolivre.com.br/produto-exemplo-5"
+        affiliateLink: "https://mercadolivre.com/sec/1uvpE3W"
     },
     {
         id: 6,
-        name: "Teclado Mecânico Gamer RGB Switch Blue",
+        name: "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
         price: 249.90,
         oldPrice: 449.90,
-        image: "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=400&h=400&fit=crop",
+        image: "https://http2.mlstatic.com/D_Q_NP_848860-MLA99964507641_112025-F.webp",
         rating: 4.6,
         reviews: 823,
         shipping: "Frete grátis",
         category: "eletronicos",
-        affiliateLink: "https://mercadolivre.com.br/produto-exemplo-6"
+        affiliateLink: "https://mercadolivre.com/sec/1K2NpiV"
     },
 
     // CASA E DECORAÇÃO
     {
         id: 7,
-        name: "Aspirador de Pó Robô Multilaser 3 em 1",
-        price: 599.00,
-        oldPrice: 999.00,
-        image: "https://images.unsplash.com/photo-1558317374-067fb5f30001?w=400&h=400&fit=crop",
+        name: "Aspirador De Pó e Água Wap Gtw 10 Compacto 1400w 10 Litros Amarelo/Preto",
+        price: 236.55,
+        oldPrice: 399,
+        image: "https://http2.mlstatic.com/D_Q_NP_944970-MLA99949674111_112025-F.webp",
         rating: 4.4,
         reviews: 456,
         shipping: "Frete grátis",
         category: "casa",
-        affiliateLink: "https://mercadolivre.com.br/produto-exemplo-7"
+        affiliateLink: "https://mercadolivre.com/sec/2bCACZa"
     },
     {
         id: 8,
-        name: "Jogo de Panelas Antiaderente 5 Peças Tramontina",
-        price: 189.90,
-        oldPrice: 349.90,
-        image: "https://images.unsplash.com/photo-1556909212-d5b604d0c90d?w=400&h=400&fit=crop",
+        name: "Liquidificador Britânia Turbo 900W 2,6L 4 Velocidades Preto BLQ970P 127V",
+        price: 113.05,
+        oldPrice: 184.90,
+        image: "https://http2.mlstatic.com/D_Q_NP_849138-MLA84536495898_052025-F.webp",
         rating: 4.8,
         reviews: 1234,
         shipping: "Frete grátis",
         category: "casa",
-        affiliateLink: "https://mercadolivre.com.br/produto-exemplo-8"
+        affiliateLink: "https://mercadolivre.com/sec/2g6mYfr"
     },
     {
         id: 9,
-        name: "Cafeteira Elétrica Expresso Nespresso",
+        name: "Roçadeira Nakasaki 75cc 3.6hp Nk750pro 8 Em 1 + Motopoda",
         price: 449.00,
         oldPrice: 799.00,
-        image: "https://images.unsplash.com/photo-1517668808822-9ebb02f2a0e6?w=400&h=400&fit=crop",
+        image: "https://http2.mlstatic.com/D_Q_NP_936229-MLB95981173184_102025-F.webp",
         rating: 4.9,
         reviews: 2156,
         shipping: "Frete grátis",
         category: "casa",
-        affiliateLink: "https://mercadolivre.com.br/produto-exemplo-9"
+        affiliateLink: "https://mercadolivre.com/sec/2pkgVQ4"
     },
     {
         id: 10,
-        name: "Liquidificador Turbo Inox 1200W 12 Velocidades",
-        price: 149.90,
-        oldPrice: 279.90,
-        image: "https://images.unsplash.com/photo-1570222094114-d054a817e56b?w=400&h=400&fit=crop",
+        name: "Massageador Pistola Elétrica Profissional Muscular Portátil Aparelho Fisioterapia Corporal, 6 Velocidades 4 Cabeças De Massagem - Micgeek",
+        price: 39.90,
+        oldPrice: 57.40,
+        image: "https://http2.mlstatic.com/D_Q_NP_621857-MLA97437063241_112025-F.webp",
         rating: 4.5,
         reviews: 987,
         shipping: "Frete grátis",
         category: "casa",
-        affiliateLink: "https://mercadolivre.com.br/produto-exemplo-10"
+        affiliateLink: "https://mercadolivre.com/sec/1ZLg3U9"
     },
 
     // MODA
     {
         id: 11,
-        name: "Tênis Nike Air Max 90 Masculino Original",
-        price: 499.90,
-        oldPrice: 799.90,
-        image: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400&h=400&fit=crop",
+        name: "Luz De Leitura Led, Luz Noturna, Livro, Lâmpada De A",
+        price: 131.24,
+        oldPrice: 230.90,
+        image: "https://http2.mlstatic.com/D_NQ_NP_2X_601367-MLB100327630435_122025-F-luz-de-leitura-led-luz-noturna-livro-lmpada-de-a.webp",
         rating: 4.9,
         reviews: 3456,
         shipping: "Frete grátis",
         category: "moda",
-        affiliateLink: "https://mercadolivre.com.br/produto-exemplo-11"
+        affiliateLink: "https://mercadolivre.com/sec/15bSxuh"
     },
     {
         id: 12,
-        name: "Jaqueta Jeans Masculina Classic Fit",
-        price: 129.90,
-        oldPrice: 259.90,
-        image: "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=400&h=400&fit=crop",
+        name: "Travesseiro Nasa Cervical Ortopédico Antialérgico Dr Coluna",
+        price: 177.99,
+        oldPrice: 349.90,
+        image: "https://http2.mlstatic.com/D_Q_NP_866451-MLA99955285289_112025-F.webp",
         rating: 4.6,
         reviews: 678,
         shipping: "Frete grátis",
         category: "moda",
-        affiliateLink: "https://mercadolivre.com.br/produto-exemplo-12"
+        affiliateLink: "https://mercadolivre.com/sec/2bVM2s9"
     },
     {
         id: 13,
-        name: "Relógio Masculino Technos Prata Analógico",
-        price: 299.00,
-        oldPrice: 599.00,
-        image: "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=400&h=400&fit=crop",
+        name: "Porta Comprimido Caixa Organizadora Remédio Semanal Triplo Cor Preto",
+        price: 22.65,
+        oldPrice: 59.00,
+        image: "https://http2.mlstatic.com/D_Q_NP_727359-MLA82557816919_022025-F.webp",
         rating: 4.7,
         reviews: 1345,
         shipping: "Frete grátis",
         category: "moda",
-        affiliateLink: "https://mercadolivre.com.br/produto-exemplo-13"
+        affiliateLink: "https://mercadolivre.com/sec/2GwgRgY"
     },
     {
         id: 14,
-        name: "Bolsa Feminina Transversal Couro Legítimo",
-        price: 159.90,
-        oldPrice: 329.90,
-        image: "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=400&h=400&fit=crop",
+        name: "Apoio Encosto Corretor Lombar Cadeira Automotivo Ortopédico",
+        price: 23.99,
+        oldPrice: 32.90,
+        image: "https://http2.mlstatic.com/D_Q_NP_640720-MLB72364648362_102023-F.webp",
         rating: 4.8,
         reviews: 892,
         shipping: "Frete grátis",
         category: "moda",
-        affiliateLink: "https://mercadolivre.com.br/produto-exemplo-14"
+        affiliateLink: "https://mercadolivre.com/sec/2cAknHC"
     },
 
     // ESPORTES
     {
         id: 15,
-        name: "Bicicleta MTB Aro 29 Shimano 21 Marchas",
-        price: 1299.00,
-        oldPrice: 1999.00,
-        image: "https://images.unsplash.com/photo-1576435728678-68d0fbf94e91?w=400&h=400&fit=crop",
+        name: "Cheirinho Carro Novo Aromatizante Automotivo Amperflim",
+        price: 35.90,
+        oldPrice: 54.80,
+        image: "https://http2.mlstatic.com/D_Q_NP_800479-MLB95113450059_102025-F-cheirinho-carro-novo-aromatizante-automotivo-amperflim.webp",
         rating: 4.7,
         reviews: 567,
         shipping: "Frete grátis",
         category: "esportes",
-        affiliateLink: "https://mercadolivre.com.br/produto-exemplo-15"
+        affiliateLink: "https://mercadolivre.com/sec/13idFee"
     },
     {
         id: 16,
-        name: "Kit Halteres 20kg Anilhas Musculação Fitness",
-        price: 199.90,
-        oldPrice: 399.90,
-        image: "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&h=400&fit=crop",
+        name: "Relógio de pulso Orient MBSS1171 com corria de aço fondo preto",
+        price: 261.47,
+        oldPrice: 469.90,
+        image: "https://http2.mlstatic.com/D_Q_NP_977941-MLA99451663296_112025-F.webp",
         rating: 4.6,
         reviews: 1234,
         shipping: "Frete grátis",
         category: "esportes",
-        affiliateLink: "https://mercadolivre.com.br/produto-exemplo-16"
+        affiliateLink: "https://mercadolivre.com/sec/1fjZr2e"
     },
     {
         id: 17,
